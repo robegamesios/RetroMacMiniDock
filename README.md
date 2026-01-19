@@ -10,6 +10,7 @@ The dock is 3D printed and designed in Tinkercad, using a simple two-part design
 Inside, I hide an OWC 1M2 Thunderbolt enclosure with a 2TB NVMe drive, delivering up to 40Gbps Thunderbolt speeds, plus a USB-C hub for clean cable management.
 
 Links to the screen and parts are in the description.
+
 7 inch screen - https://www.amazon.com/dp/B0D53RRHMD?...
 
 OWC Express 1M2 enclosure - https://www.amazon.com/dp/B0CPYQPCVP?...
