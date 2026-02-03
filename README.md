@@ -1,4 +1,4 @@
-# RetroMacMiniDock
+# Retro Mac Mini Dock
 DIY M4 Mac Mini Retro Dock
 
 Youtube video: https://youtu.be/6QuZa_P7n8g?si=6YJNg23-mYqBSiES
@@ -16,3 +16,7 @@ Links to the screen and parts are in the description.
 OWC Express 1M2 enclosure - https://www.amazon.com/dp/B0CPYQPCVP?...
 
 2TB SSD - https://www.amazon.com/dp/B0DHLCRF91?...
+
+# Ipad Mini 2 Retro Mac Mini Dock
+
+Youtube video: https://youtu.be/WK-uA_fssRI?si=9ifTLyRFj1oakob8
